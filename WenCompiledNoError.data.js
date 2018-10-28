@@ -184,6 +184,6 @@ Module['FS_createPath']('/WenCompiledNoError/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 106, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 106, "crunched": 0, "end": 162, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 162, "crunched": 0, "end": 360, "filename": "/Engine/Build/Build.version"}, {"audio": 0, "start": 360, "crunched": 0, "end": 69245818, "filename": "/WenCompiledNoError/Content/Paks/WenCompiledNoError-HTML5.pak"}], "remote_package_size": 69245818, "package_uuid": "c59c80be-8592-423c-9116-358c8b2cf8f0"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 106, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 106, "crunched": 0, "end": 162, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 162, "crunched": 0, "end": 360, "filename": "/Engine/Build/Build.version"}, {"audio": 0, "start": 360, "crunched": 0, "end": 72661487, "filename": "/WenCompiledNoError/Content/Paks/WenCompiledNoError-HTML5.pak"}], "remote_package_size": 72661487, "package_uuid": "e38d1718-af96-4e41-afe6-8378dbac0963"});
 
 })();
